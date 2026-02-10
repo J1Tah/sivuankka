@@ -1,6 +1,6 @@
 🦆 Sivuankka
 
-    Antti nyt vittuun sieltä ankoilta
+    Extremely simple in-game clock based sound cue script for Dota 2
 
 🚀 Usage
 
