@@ -1,8 +1,11 @@
 *.py
 *.spec
+*.bat
 
 build/
 dist/
+sounds/
+release/
 __pycache__/
 .venv/
 
